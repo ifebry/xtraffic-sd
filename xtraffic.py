@@ -11,21 +11,7 @@ import concurrent.futures
 import time
 import argparse
 
-urls = [
-        "https://datascience.fmipa.unesa.ac.id/post/empat-tim-mahasiswa-sains-data-raih-juara-di-ajang-dimas-ti-2025",
-        "https://datascience.fmipa.unesa.ac.id/post/empat-tim-pkm-unesa-berhasil-melaju-ke-pimnas-ke-38",
-        "https://datascience.fmipa.unesa.ac.id/post/dua-tim-mahasiswa-sains-data-menjadi-finalis-gemastik-xviii",
-        "https://datascience.fmipa.unesa.ac.id/post/tensorbrewww",
-        "https://datascience.fmipa.unesa.ac.id/post/tim-pkm-unesa-lolos-pendanaan-diktisaintek-2025",
-        "https://datascience.fmipa.unesa.ac.id/post/mahasiswa-sains-data-unesa-raih-juara-2-di-the-international-brain-challenge-competition-2025",
-        "https://datascience.fmipa.unesa.ac.id/post/prodi-s1-sains-data-perkuat-kurikulum-berbasis-kompetensi-melalui-kolaborasi-dengan-komdigi",
-        "https://datascience.fmipa.unesa.ac.id/post/best-paper-seminar-nasional-sains-data-senada-2025",
-        "https://datascience.fmipa.unesa.ac.id/post/unjuk-karya-mahasiswa-s1-sains-data-fmipa-unesa-dalam-data-science-expo-2025",
-        "https://datascience.fmipa.unesa.ac.id/post/kuliah-tamu-pemanfaatan-random-forest-untuk-analisis-data-dalam-perspektif-kecerdasan-artifisial",
-        "https://datascience.fmipa.unesa.ac.id/post/from-data-science-to-magistra-website-digitalisasi-administrasi-magang-di-bps-kota-surabaya",
-        "https://datascience.fmipa.unesa.ac.id/post/apa-itu-machine-learning",
-	    "https://datascience.fmipa.unesa.ac.id/post/perkuat-pemahaman-nosql-redis-praktisi-mengajar-analisis-big-data"
-        ]
+urls = ["www.google.com"]
 
 proxy_servers = [
     "154.194.12.101:80",
